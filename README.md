@@ -1,1 +1,0 @@
-# MedericDOMINICI.github.io
