@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" class="h-100" data-bs-theme="auto">
   <head>
-    <script src="/pg/assets/js/color-modes.js"></script>
+    <script src="/assets/js/color-modes.js"></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,9 +14,9 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-    <link href="/pg/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="/pg/assets/cover.css">
+    <link rel="stylesheet" href="/assets/cover.css">
 
     <style>
       .bd-placeholder-img {
@@ -124,9 +124,9 @@
         <div>
           <h3 class="float-md-start mb-0">Médéric DOMINICI</h3>
           <nav class="nav nav-masthead justify-content-center float-md-end">
-            <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="/pg/index.php?page=accueil">Accueil</a>
-            <a class="nav-link fw-bold py-1 px-0" href="/pg/index.php?page=parcours">Parcours</a>
-            <a class="nav-link fw-bold py-1 px-0" href="/pg/index.php?page=projets">Projets</a>
+            <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="/index.php?page=accueil">Accueil</a>
+            <a class="nav-link fw-bold py-1 px-0" href="/index.php?page=parcours">Parcours</a>
+            <a class="nav-link fw-bold py-1 px-0" href="/index.php?page=projets">Projets</a>
             <!-- <a class="nav-link fw-bold py-1 px-0" href="#">Contact</a> -->
           </nav>
         </div>
@@ -147,7 +147,7 @@
       </footer>
     </div>
   
-      <script src="/pg/assets/dist/js/bootstrap.bundle.min.js"></script>
+      <script src="/assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
